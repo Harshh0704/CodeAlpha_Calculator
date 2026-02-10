@@ -82,4 +82,3 @@ This project was developed as part of learning **front-end web development** and
 If you find this project useful, feel free to ⭐ star the repository!
 
 
-## 📂 Project Structure
